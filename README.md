@@ -47,7 +47,7 @@
 ---
 ### 😎 My interests 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/stejul/ColoredBadges/master/customBadges/dataengineering.svg" alt="Data Engineering" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/dataengineering.svg" alt="Data Engineering" style="vertical-align:top; margin:4px">
   </a>
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px">
