@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://github.com/ChristianChiarulli/LunarVim">
+  <a href="https://github.com/LunarVim/LunarVim">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Neovim" style="vertical-align:top; margin:4px">
   </a>
 
