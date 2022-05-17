@@ -30,12 +30,11 @@
 
 ---
 ### 🔭 I’m currently working on ...
- - a Data Engineering project where different tools are being tested, like:
-    - [Dagster](https://dagster.io)
-    - [Apache Druid](https://apache.druid.org)
-    - [PySpark](https://spark.apache.org)
-    - [Scrapy](https://scrapy.org)
-
+ - a Data Lake which receives scraped real estate data. PySpark will be processing this data and load it into a DWH
+    - MinIO
+    - Apache Airflow
+    - Scrapy
+    - Marquez + PostgreSQL
 ---
 ### 🌱 I’m currently learning
 <p>
