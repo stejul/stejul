@@ -30,11 +30,9 @@
 
 ---
 ### 🔭 I’m currently working on ...
- - a Data Lake which receives scraped real estate data. PySpark will be processing this data and load it into a DWH
-    - MinIO
-    - Apache Airflow
-    - Scrapy
-    - Marquez + PostgreSQL
+- deep dive into Databricks
+- Data Architecture and Data Strategy
+- Programming in C
 ---
 ### 🌱 I’m currently learning
 <p>
