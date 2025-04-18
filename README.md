@@ -30,9 +30,8 @@
 
 ---
 ### 🔭 I’m currently working on ...
-- deep dive into Databricks
-- Data Architecture and Data Strategy
-- Programming in C
+- A Data Platform built with DBT and MSFT Fabric 
+- Digging deeper into Data Architecture and Data Strategy
 ---
 ### 🌱 I’m currently learning
 <p>
