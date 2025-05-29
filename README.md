@@ -29,6 +29,7 @@
   <a href="https://azure.microsoft.com">
     <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
   </a>
+  
 </p>
 
 ---
@@ -39,11 +40,7 @@
 ---
 
 ### 🌱 I’m currently learning
-<p>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/cpp.svg" alt="C++" style="vertical-align:top; margin:4px">
-  </a>
-</p>
+- C++
 
 ---
 ### 😎 My interests 
