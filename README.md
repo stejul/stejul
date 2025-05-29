@@ -26,17 +26,22 @@
   <a href="https://vuejs.org">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/vue.svg" alt="VueJS" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://azure.microsoft.com">
+    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ---
 ### 🔭 I’m currently working on ...
-- A Data Platform built with DBT and MSFT Fabric 
+- A Data Platform built with dbt and MSFT Fabric 
 - Digging deeper into Data Architecture and Data Strategy
+- Building a distributed key-value store in C++
 ---
+
 ### 🌱 I’m currently learning
 <p>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/cpp.svg" alt=C++ style="vertical-align:top; margin:4px">
   </a>
 </p>
 
@@ -51,4 +56,6 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg" alt="Data Science" style="vertical-align:top; margin:4px">
   </a>
-
+<a href="#">
+    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/platform_engineering.svg" alt="Platform Engineering" style="vertical-align:top; margin:4px">
+  </a>
