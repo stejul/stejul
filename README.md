@@ -41,7 +41,7 @@
 ### 🌱 I’m currently learning
 <p>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/cpp.svg" alt=C++ style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/stejul/stejul/master/customBadges/cpp.svg" alt="C++" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
