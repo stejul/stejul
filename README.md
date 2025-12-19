@@ -13,7 +13,7 @@
 
 #### 💬 Ask me about
 - Data Engineering
-- Data/Software Architecture**
+- Data/Software Architecture
 
 #### ⚡ Fun fact 
 **I once logged myself out of my server by hardening it too much**
